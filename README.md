@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0047-permutations-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -85,9 +86,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0047-permutations-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
 <!---LeetCode Topics End-->
