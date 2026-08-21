@@ -118,9 +118,27 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/2360-longest-cycle-in-a-graph/) | Hard |
 | [2608-shortest-cycle-in-a-graph](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/2608-shortest-cycle-in-a-graph/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/2360-longest-cycle-in-a-graph/) | Hard |
 | [2608-shortest-cycle-in-a-graph](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/2608-shortest-cycle-in-a-graph/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/2360-longest-cycle-in-a-graph/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/2360-longest-cycle-in-a-graph/) | Hard |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/2360-longest-cycle-in-a-graph/) | Hard |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/2360-longest-cycle-in-a-graph/) | Hard |
 <!---LeetCode Topics End-->
