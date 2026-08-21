@@ -115,4 +115,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1079-letter-tile-possibilities](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2608-shortest-cycle-in-a-graph](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/2608-shortest-cycle-in-a-graph/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2608-shortest-cycle-in-a-graph](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/2608-shortest-cycle-in-a-graph/) | Hard |
 <!---LeetCode Topics End-->
