@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0047-permutations-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/3552-grid-teleportation-traversal/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -109,6 +110,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [2360-longest-cycle-in-a-graph](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/2360-longest-cycle-in-a-graph/) | Hard |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [2608-shortest-cycle-in-a-graph](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/2608-shortest-cycle-in-a-graph/) | Hard |
 | [3552-grid-teleportation-traversal](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/3552-grid-teleportation-traversal/) | Medium |
 ## Graph Theory
@@ -135,6 +138,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/2360-longest-cycle-in-a-graph/) | Hard |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +159,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+| [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/3552-grid-teleportation-traversal/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
