@@ -2,25 +2,18 @@ class Solution {
 public:
     vector<int> twoSum(vector<int>& v, int target) {
         int n = v.size();
+        unordered_map<int,int> mp;
         vector<int> ans;
-        vector<int> idx(n);
-        for(int i = 0;i < n; i++)
-            idx[i] = i;
-        sort(idx.begin(), idx.end(), [&v](int a, int b){
-            return v[a] < v[b];
-        });
-        int l = 0, hi = n - 1;
-        while(l < hi)
+        for(int i = 0; i < n; i++)
         {
-            if(v[idx[l]] + v[idx[hi]] > target)
-                hi--;
-            else if(v[idx[l]] + v[idx[hi]] < target)
-                l++;
-            else
+            if(mp.count(target - v[i]) != 0)
             {
-                ans = {idx[l], idx[hi]};
+                ans = {mp[target - v[i]], i};
+                sort(ans.begin(), ans.end());
                 break;
             }
+            else
+                mp[v[i]] = i;
         }
         return ans;
     }
