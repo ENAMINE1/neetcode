@@ -105,6 +105,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0433-minimum-genetic-mutation](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/3552-grid-teleportation-traversal/) | Medium |
 ## Counting
@@ -123,6 +125,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [2360-longest-cycle-in-a-graph](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/2360-longest-cycle-in-a-graph/) | Hard |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
@@ -173,4 +176,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0433-minimum-genetic-mutation](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
 <!---LeetCode Topics End-->
