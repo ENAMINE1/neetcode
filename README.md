@@ -94,6 +94,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0022-generate-parentheses](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0047-permutations-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -107,6 +108,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 ## Dynamic Programming
@@ -114,6 +116,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
