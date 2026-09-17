@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0047-permutations-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
@@ -199,4 +200,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
