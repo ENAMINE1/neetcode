@@ -88,6 +88,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0152-maximum-product-subarray](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip/) | Medium |
@@ -96,6 +97,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
+| [0268-missing-number](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,11 +110,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
+| [0268-missing-number](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0268-missing-number](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -135,6 +139,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0268-missing-number](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/3552-grid-teleportation-traversal/) | Medium |
@@ -214,6 +219,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
