@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0047-permutations-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0090-subsets-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Hard/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -116,6 +117,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
 | [0056-merge-intervals](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -213,6 +215,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 ## Math
@@ -224,4 +227,9 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
