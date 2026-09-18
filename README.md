@@ -127,6 +127,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0131-palindrome-partitioning](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
+| [0567-permutation-in-string](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -147,6 +148,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0268-missing-number](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
+| [0567-permutation-in-string](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/3552-grid-teleportation-traversal/) | Medium |
 ## Counting
@@ -222,6 +224,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0075-sort-colors](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
+| [0567-permutation-in-string](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,4 +244,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0567-permutation-in-string](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 <!---LeetCode Topics End-->
