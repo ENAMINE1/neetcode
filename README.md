@@ -122,6 +122,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
@@ -141,6 +142,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0268-missing-number](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0433-minimum-genetic-mutation](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
@@ -232,4 +234,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
