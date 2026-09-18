@@ -125,6 +125,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0003-longest-substring-without-repeating-characters](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 ## Dynamic Programming
@@ -144,6 +145,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0001-two-sum](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0268-missing-number](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0433-minimum-genetic-mutation](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0433-minimum-genetic-mutation/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/3552-grid-teleportation-traversal/) | Medium |
@@ -238,4 +240,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
