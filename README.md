@@ -104,6 +104,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0047-permutations-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0047-permutations-ii/) | Medium |
+| [0077-combinations](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 | [1079-letter-tile-possibilities](https://github.com/ENAMINE1/neetcode/tree/main/LeetCode/Medium/1079-letter-tile-possibilities/) | Medium |
